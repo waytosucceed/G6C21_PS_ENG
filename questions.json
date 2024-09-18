@@ -1,0 +1,185 @@
+{
+  "heading": "Punctuation Marks",
+  "topics": [
+    {
+      "heading": "Punctuation",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Dr _______ Smith will see you now.",
+          "options": [",", "."],
+          "answer": 1,
+          "explanation": "A full stop is used after abbreviations."
+        },
+        {
+          "questionNo": 2,
+          "question": "Wow _______ I got an A on my test!",
+          "options": ["?", "!"],
+          "answer": 1,
+          "explanation": "An exclamation mark is used to show excitement or strong emotion."
+        },
+        {
+          "questionNo": 3,
+          "question": "Do you like pizza _______",
+          "options": [".", "?"],
+          "answer": 1,
+          "explanation": "A question mark is used at the end of a direct question."
+        },
+        {
+          "questionNo": 4,
+          "question": "The cat slept on the couch _______ The dog slept on the floor. ",
+          "options": [",", "."],
+          "answer": 1,
+          "explanation": "A full stop (period) is used to separate two complete sentences."
+        },
+        {
+          "questionNo": 5,
+          "question": "Please bring your pencil _______ eraser _______ and notebook to class. ",
+          "options": [",  ,", ",  /"],
+          "answer": 0,
+          "explanation": "Commas are used to separate items in a list."
+        },
+        {
+          "questionNo": 6,
+          "question": "How old are you _______ ",
+          "options": ["!", "?"],
+          "answer": 1,
+          "explanation": "A question mark is used at the end of a direct question."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which punctuation mark should be used at the end of this sentence: \"I love ice cream\"",
+          "options": [".", ",", "!", "?"],
+          "answer": 0,
+          "explanation": "A full stop is used at the end of a statement."
+        },
+        {
+          "questionNo": 8,
+          "question": "What punctuation mark goes at the end of \"What is your favorite colour\"",
+          "options": [".", ",", "!", "?"],
+          "answer": 3,
+          "explanation": "A question mark is used at the end of a direct question."
+        },
+        {
+          "questionNo": 9,
+          "question": "Stop _______ Look both ways before crossing the street. ",
+          "options": [".", "!"],
+          "answer": 1,
+          "explanation": "An exclamation mark is used for emphasis in a command."
+        },
+        {
+          "questionNo": 10,
+          "question": "Choose the correct punctuation for this sentence: \"Watch out ___ There's a big puddle\" ",
+          "options": [".", ",", "!", "?"],
+          "answer": 2,
+          "explanation": "An exclamation mark is used to show urgency or warning."
+        },
+        {
+          "questionNo": 11,
+          "question": "What goes at the end of \"Please close the door\"  ?",
+          "options": [".", ",", "!", "?"],
+          "answer": 0,
+          "explanation": "A polite request ends with a full stop."
+        },
+        {
+          "questionNo": 12,
+          "question": "My dog's name is Buddy _______ He is very friendly. ",
+          "options": [",", "."],
+          "answer": 1,
+          "explanation": "A full stop is used to separate two complete sentences."
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the correct punctuation: \"Ouch ___ That hurt\" ?",
+          "options": [".", ",", "!", "?"],
+          "answer": 2,
+          "explanation": "An exclamation mark shows strong emotion or pain."
+        },
+        {
+          "questionNo": 14,
+          "question": "Are you coming to my party on Saturday _______ ",
+          "options": ["?", "."],
+          "answer": 0,
+          "explanation": "A question mark is used at the end of a direct question."
+        },
+        {
+          "questionNo": 15,
+          "question": "What punctuation mark goes here:<br> \"After school ___ I go to soccer practice\" ",
+          "options": [".", ",", "!", "?"],
+          "answer": 1,
+          "explanation": "A comma separates an introductory phrase from the main sentence."
+        },
+        {
+          "questionNo": 16,
+          "question": "After lunch _______ we will have recess. ",
+          "options": ["!", ","],
+          "answer": 1,
+          "explanation": "A comma is used after an introductory phrase."
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the correct punctuation: \"My address is 123 Main St ___ New York ___ NY\" ",
+          "options": [". .", ", ,", "! !", "? ?"],
+          "answer": 1,
+          "explanation": "Commas separate parts of an address."
+        },
+        {
+          "questionNo": 18,
+          "question": "What punctuation mark goes here:<br> \"Yes ___ I would like some cake\" ",
+          "options": [".", ",", "!", "?"],
+          "answer": 1,
+          "explanation": "A comma follows \"Yes\" at the beginning of a sentence."
+        },
+        {
+          "questionNo": 19,
+          "question": "What punctuation goes here:<br> \"Tomorrow ___ we have a field trip to the zoo\" ",
+          "options": [".", ",", "!", "?"],
+          "answer": 1,
+          "explanation": "A comma separates an introductory word or phrase from the rest of the sentence."
+        },
+        {
+          "questionNo": 20,
+          "question": "What goes here:<br> \"Oh no ___ I forgot my lunch\" ",
+          "options": [".", ",", "!", "?"],
+          "answer": 2,
+          "explanation": "An exclamation mark shows strong emotion or surprise."
+        },
+        {
+          "questionNo": 21,
+          "question": "Choose the correct punctuation: \"Do you prefer cats ___ dogs ___ or fish\" ",
+          "options": [". . .", ", , ?", "! ! !", "? ? ?"],
+          "answer": 1,
+          "explanation": "Commas separate items in a list, with a question mark at the end of the question."
+        },
+        {
+          "questionNo": 22,
+          "question": "Choose the correct punctuation: \"The movie was funny ___ exciting ___ and scary ____\" ",
+          "options": [". . .", ", , .", "! ! !", "? ? ?"],
+          "answer": 1,
+          "explanation": "Commas separate items in a list, with a full stop at the end of the sentence."
+        },
+        {
+          "questionNo": 23,
+          "question": "What goes at the end of \"Can you help me with my homework\"",
+          "options": [".", ",", "!", "?"],
+          "answer": 3,
+          "explanation": "A question mark is used at the end of a direct question."
+        },
+        {
+          "questionNo": 24,
+          "question": "Which punctuation mark goes here:<br> \"First ___ put on your shoes\" ",
+          "options": [".", ",", "!", "?"],
+          "answer": 1,
+          "explanation": "A comma follows sequence words like \"First\" at the beginning of a sentence."
+        },
+        {
+          "questionNo": 25,
+          "question": "What punctuation goes here: <br> \"Hurry ___ We're going to be late\" ",
+          "options": [".", ",", "!", "?"],
+          "answer": 2,
+          "explanation": "An exclamation mark shows urgency."
+        }
+      ]
+    }
+  ]
+}
